@@ -2,7 +2,7 @@
 title: "Getting started with an interview show"
 description: "Some of the few things I've learned so far with bringing people over to talk into a microphone with me."
 pubDate: "Jul 16 2023"
-heroImage: "/hero.jpg"
+heroImage: "/post1.jpg"
 ---
 
 So actually I'm writing this before releasing the first episode of ian show. I'm away from my editing setup, and it's too late to be texting people asking them if they want to come on the show, but I figure reflecting on some of my learnings and observations will be helpful for me and maybe for you.
